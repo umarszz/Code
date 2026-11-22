@@ -1,4 +1,3 @@
-# Code
 # FRIZO Marketing Campaign Management Portal
 
 A menu-driven, command-line administration system written in Python for FRIZO, a fictional fries brand ("Fries. Your Way."). Built for Programming for Business Lab, FAST-NU, section BSBA-3D.
