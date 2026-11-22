@@ -16,8 +16,8 @@ A menu-driven, command-line administration system written in Python for FRIZO, a
 3. Log in with the admin credentials below and use the menu.
 
 ## Login details
-Username: (your admin username)
-Password: (your admin password)
+Username: admin
+Password: frizo123
 
 ## Authors
 Sarah Faisal (25L-5073), Umar Qureshi (25L-5077)
